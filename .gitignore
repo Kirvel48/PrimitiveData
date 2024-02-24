@@ -1,6 +1,10 @@
 HELP.md
 build/
 gradle
+resources
+module-info.java
+
+
 
 !**/src/main/**
 !**/src/test/**
@@ -13,6 +17,10 @@ gradle
 
 ### Gradle ###
 .gradle
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
 
 ### Logs ###
 *.log
