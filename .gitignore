@@ -17,10 +17,10 @@ module-info.java
 
 ### Gradle ###
 .gradle
-build.gradle
-gradlew
-gradlew.bat
-settings.gradle
+/build.gradle
+/gradlew
+/gradlew.bat
+/settings.gradle
 
 ### Logs ###
 *.log
